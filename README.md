@@ -1,10 +1,34 @@
-OG Arena; A 1 to 1 size replica of the old arena map made with the spot builder by @Catrock and @06Leumas, We hope you enjoy!
+# OG Arena – Tricking 0 Original Arena Map
 
-HOW TO DOWNLOAD AND PLAY:
+A true 1:1 scale replica of the original Arena map for Tricking 0, rebuilt using the Spot Builder by @Catrock and @06Leumas on Discord.
 
-1. Download both the ogarena.json and the ogarena.png files to your computer.
-2. Replace "username" with your windows username in this path; " C:\Users\username\AppData\LocalLow\TRICKING 0\TRICKING_0\Maps " and copy and paste it into your file explorer or windows searchbar. Alternetivly you can find the folder manually on your computer.
-3. Drag and drop the files you downloaded into the Maps folder that you located with the path in the step above.
-4. Launch Tricking 0 -> go into arena -> go into options and go into Spot builder -> Go to the spot builder menu and press "Load Map".
-5. Select OGArena and enjoy!
+We hope you enjoy!
 
+---
+
+## How to Download and Play
+
+1. **Download the Required Files**
+   - Download both `ogarena.json` and `ogarena.png` from this repository to your computer.
+
+2. **Locate the Maps Folder**
+   - Open File Explorer and navigate to:
+     ```
+     C:\Users\<your-username>\AppData\LocalLow\TRICKING 0\TRICKING_0\Maps
+     ```
+   - Replace `<your-username>` with your Windows username.
+
+3. **Add the Files**
+   - Move or copy `ogarena.json` and `ogarena.png` into the `Maps` folder.
+
+4. **Load the Map in Tricking 0**
+   - Launch Tricking 0.
+   - Go into the Arena.
+   - Open the Options menu.
+   - Navigate to Spot Builder > Load Map.
+   - Select **OGArena** from the list.
+
+5. **Enjoy!**
+
+---
+If you have any questions or run into issues, feel free to open an issue or reach out to us on discord!
