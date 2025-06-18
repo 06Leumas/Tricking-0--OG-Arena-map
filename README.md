@@ -9,7 +9,7 @@ We hope you enjoy!
 ## How to Download and Play
 
 1. **Download the Required Files**
-   - Download both `ogarena.json` and `ogarena.png` from this repository to your computer.
+   - Download both `OG Arena.json` and `OG Arena.png` from this repository to your computer.
 
 2. **Locate the Maps Folder**
    - Open File Explorer and navigate to:
