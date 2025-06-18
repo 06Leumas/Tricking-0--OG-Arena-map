@@ -23,12 +23,12 @@ We hope you enjoy!
 
 4. **Load the Map in Tricking 0**
    - Launch Tricking 0.
-   - Go into the Arena.
+   - Load into the Arena map.
    - Open the Options menu.
-   - Navigate to Spot Builder > Load Map.
+   - Navigate to Spot Builder > Spot Builder menu > Load Map.
    - Select **OGArena** from the list.
 
 5. **Enjoy!**
 
 ---
-If you have any questions or run into issues, feel free to open an issue or reach out to us on discord!
+If you have any questions or run into issues, feel free to reach out to us on discord!
